@@ -1,0 +1,24 @@
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-mfo0wh sitelibdir\=./.gem.20251021-857-mfo0wh clean
+make: Warning: File 'Makefile' has modification time 0.7 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-mfo0wh sitelibdir\=./.gem.20251021-857-mfo0wh
+make: Warning: File 'Makefile' has modification time 0.64 s in the future
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-mfo0wh sitelibdir\=./.gem.20251021-857-mfo0wh install
+make: Warning: File 'cruby.so' has modification time 0.58 s in the future
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20251021-857-mfo0wh/skiptrace/internal
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-mfo0wh sitelibdir\=./.gem.20251021-857-mfo0wh clean

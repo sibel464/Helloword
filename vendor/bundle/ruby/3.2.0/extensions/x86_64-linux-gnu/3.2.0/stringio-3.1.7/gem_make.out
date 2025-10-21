@@ -1,0 +1,25 @@
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.7/ext/stringio
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-y1lhil sitelibdir\=./.gem.20251021-857-y1lhil clean
+make: Warning: File 'Makefile' has modification time 0.64 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-y1lhil sitelibdir\=./.gem.20251021-857-y1lhil
+make: Warning: File 'Makefile' has modification time 0.57 s in the future
+compiling stringio.c
+linking shared-object stringio.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-y1lhil sitelibdir\=./.gem.20251021-857-y1lhil install
+make: Warning: File 'stringio.so' has modification time 0.49 s in the future
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20251021-857-y1lhil
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/ASUS/Desktop/Helloword/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251021-857-y1lhil sitelibdir\=./.gem.20251021-857-y1lhil clean
